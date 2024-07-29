@@ -1,5 +1,5 @@
 #demo
-https://windmill-mohie.netlify.app/
+https://windmill-dashboard.onrender.com
 
 # WindMill-Dashboard
 
